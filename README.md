@@ -12,6 +12,8 @@ Projeto construido no evento Next Level Week da Rocketseat
 - CSS
 - Git & Github
 
+[🔗 Clique aqui para acessar](https://pablo-vl.github.io/nlw)
+
 ## 🖤 Contato
 
 - blopa741@gmail.com
